@@ -5,7 +5,6 @@ Engineering student at KOSEN KMITL 6th batch Computer Engineering Department
 - Python ( print("Hello World!") )
 - Playing basketball
 - Good at sleeping
-  -New skill will unlock at level 99 
 
 ## 🚀 Projects
 - *Connect 4*: easy fun game by python from year 1 project
