@@ -1,17 +1,68 @@
-# Hi There, I'm Narawut 👋
-Engineering student at KOSEN KMITL 6th batch Computer Engineering Department
+<!-- Header Banner -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0099ff,100:9900ff&height=200&section=header&text=Hi%20There!%20I'm%20Narawut%20👋&fontSize=36&fontColor=ffffff&fontAlignY=40)
 
-## 🔧 Skills
-- Python ( print("Hello World!") )
-- Playing basketball
-- Good at sleeping
+---
 
-## 🚀 Projects
-- *Connect 4*: easy fun game by python from year 1 project
-- *YouTube Predictor*: Predicts video trends using sklearn (Python) from Year2 Semester1
+### 🧑‍💻 About Me  
+I'm **Narawut**, an engineering student from **KOSEN KMITL (6th Batch)**, majoring in **Computer Engineering**.  
+I love solving problems through code, designing creative projects, and sometimes... just taking a really good nap 😴
 
-## 📫 Contact
-- Email: nongnineplays@gmail.com, 67991013@kmitl.ac.th
-- Tel: +66 830830136 
-- Room: 8-309 (Knock the door with the cha cha cha rythm and it will automatically open.)
+---
+
+### 🔧 Skills  
+💻 **Programming & Tools**  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+
+🏀 **Personal Skills**  
+- Playing basketball like LeBron (at least in dreams 😎)  
+- Sleeping with 99.9% efficiency 💯  
+- Debugging Python code with patience and snacks 🍫  
+
+---
+
+### 🚀 Projects  
+| Project | Description | Tech |
+|----------|--------------|------|
+| 🎮 **Connect 4** | A simple yet fun Python game built in Year 1 | Python |
+| 📈 **YouTube Predictor** | Predicts trending videos using sklearn (Year 2, Sem 1) | Python, scikit-learn |
+
+---
+
+### 📫 Contact  
+📧 **Emails:**  
+- [nongnineplays@gmail.com](mailto:nongnineplays@gmail.com)  
+- [67991013@kmitl.ac.th](mailto:67991013@kmitl.ac.th)  
+
+📱 **Tel:** +66 830830136  
+
+🏠 **Room:** 8-309  
+*(Knock the door with the “cha cha cha” rhythm and it will automatically open.)* 🕺🎶  
+
+---
+
+### 📊 GitHub Stats  
+![Narawut's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nnrw9&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nnrw9&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com?user=Nnrw9&theme=tokyonight)
+
+---
+
+### 🏆 Trophies  
+![trophy](https://github-profile-trophy.vercel.app/?username=Nnrw9&theme=tokyonight&column=6)
+
+---
+
+### 🌐 Connect  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/Nnrw9)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/eight_._ten)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:nongnineplays@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Nnrw9&color=blue)
+
+---
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:9900ff,100:0099ff&height=120&section=footer)
 
