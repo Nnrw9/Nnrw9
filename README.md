@@ -1,5 +1,5 @@
 <!-- Header Banner -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0099ff,100:9900ff&height=200&section=header&text=Hi%20There!%20I'm%20Narawut%20👋&fontSize=36&fontColor=ffffff&fontAlignY=40)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:0099ff&height=200&section=header&text=Hi%20There!%20I'm%20Narawut%20👋&fontSize=36&fontColor=ffffff&fontAlignY=40)
 
 ---
 
@@ -50,11 +50,6 @@ I love solving problems through code, designing creative projects, and sometimes
 
 ---
 
-### 🏆 Trophies  
-![trophy](https://github-profile-trophy.vercel.app/?username=Nnrw9&theme=tokyonight&column=6)
-
----
-
 ### 🌐 Connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/Nnrw9)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/eight_._ten)  
@@ -64,5 +59,5 @@ I love solving problems through code, designing creative projects, and sometimes
 
 ---
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:9900ff,100:0099ff&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:0099ff&height=120&section=footer)
 
