@@ -19,7 +19,7 @@ I love solving problems through code, designing creative projects, and sometimes
 🏀 **Personal Skills**  
 - Playing basketball like LeBron (at least in dreams 😎)  
 - Sleeping with 99.9% efficiency 💯  
-- Debugging Python code with patience and snacks 🍫  
+- Python ( print("Hello World!")
 
 ---
 
