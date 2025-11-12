@@ -5,7 +5,7 @@
 
 ### 🧑‍💻 About Me  
 I'm **Narawut**, an engineering student from **KOSEN KMITL (6th Batch)**, majoring in **Computer Engineering**.  
-I love solving problems through code, designing creative projects, and sometimes... just taking a really good nap 😴
+On my free time... Just taking a really good nap zzZ
 
 ---
 
@@ -17,9 +17,9 @@ I love solving problems through code, designing creative projects, and sometimes
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
 🏀 **Personal Skills**  
-- Playing basketball like LeBron (at least in dreams 😎)  
+- Playing basketball like LeBron (at least in dreams)  
 - Sleeping with 99.9% efficiency 💯  
-- Python ( print("Hello World!")
+- Python ( print("Hello World!") )
 
 ---
 
@@ -51,7 +51,6 @@ I love solving problems through code, designing creative projects, and sometimes
 ---
 
 ### 🌐 Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/Nnrw9)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/eight_._ten)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:nongnineplays@gmail.com)
 
