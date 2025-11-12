@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi There, I'm Narawut 👋
+Engineering student at KOSEN KMITL 6th batch Computer Engineering Department
 
-<!--
-**Nnrw9/Nnrw9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Skills
+- Python ( print("Hello World!") )
+- Playing basketball
+- Good at sleeping
+  New skill will unlock at level 99 
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- *Connect 4*: easy fun game by python from year 1 project
+- *YouTube Predictor*: Predicts video trends using sklearn (Python) from Year2 Semester1
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+- Email: nongnineplays@gmail.com, 67991013@gmail.com
+- Tel: +66 830830136 
+- Room: 8-309 (Knock the door with the cha cha cha rythm and it will automatically open.)
+
