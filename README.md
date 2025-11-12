@@ -41,12 +41,6 @@ On my free time... Just taking a really good nap zzZ
 🏠 **Room:** 8-309  
 *(Knock the door with the “cha cha cha” rhythm and it will automatically open.)* 🕺🎶  
 
----
-
-### 📊 GitHub Stats  
-![Narawut's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nnrw9&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nnrw9&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=Nnrw9&theme=tokyonight)
 
 ---
 
