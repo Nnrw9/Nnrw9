@@ -48,8 +48,6 @@ On my free time... Just taking a really good nap zzZ
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/eight_._ten)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:nongnineplays@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Nnrw9&color=blue)
-
 ---
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:0099ff&height=120&section=footer)
