@@ -14,7 +14,6 @@ On my free time... Just taking a really good nap zzZ
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
 🏀 **Personal Skills**  
 - Playing basketball like LeBron (at least in dreams)  
