@@ -16,7 +16,8 @@ On my free time... Just taking a really good nap zzZ
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white)
 
 🏀 **Personal Skills**  
-- Playing basketball like LeBron (at least in dreams)  
+- Playing basketball
+- Playing Tennis
 - Sleeping with 99.9% efficiency 💯  
 - Python ( print("Hello World!") )
 
